@@ -6,7 +6,6 @@ All project reports have been compiled into one large writeup that details:
 - Project purpose and scope
 - Functional and nonfunctional requirements
 - Design constraints
-- Interfaces
 - Use case model for system
 - Actor and use case identification
 
