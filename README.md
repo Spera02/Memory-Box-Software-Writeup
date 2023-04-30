@@ -1,6 +1,6 @@
 ## Memory Box Software Project Writeup
 Full writeup and documentation for the University of Miami's CSC431 Intro. to Software Engineering course project with Professor Lokesh Ramamoorthi.
-All project reports have been compiled into one large writeup and detail:
+All project reports have been compiled into one large writeup that details:
 
 ### System Requirements Specification
 - Project purpose and scope
